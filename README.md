@@ -1,4 +1,6 @@
 # gingers-portfolio
 Hello This is my portfolio website  made using (html,css,js)
 
-https://gingerbreadsketchy.github.io/gingers-portfolio/
+<b> LIVE SITE BELOW HOSTED ON NETLIFY </b>
+
+https://gingersportfolio.netlify.app/
